@@ -2,9 +2,9 @@
 
 ### Author | Passionate Programmer
 
-- 🔭 I’m currently working on Angular, ASP.NET Core, Azure 
-- 🌱 I’m currently learning RxJS, NgRx, Angular, Reactjs, Nextjs
-- 💬 Ask me about Angular, ASP.NET Core, C#
+- 🔭 I’m currently working on Angular, ASP.NET Core, Blazor, Azure, AWS
+- 🌱 I’m currently learning RxJS, NgRx, Angular, Reactjs, Nextjs, Python
+- 💬 Ask me about Angular, ASP.NET Core, C#, Blazor
 - 📫 How to reach me: 
 
 ### 🤝 Connect with me:
